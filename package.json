@@ -1,0 +1,25 @@
+{
+  "name": "mealplanner",
+  "version": "1.0.0",
+  "description": "The Meal Planner application is a simple app where users can plan thier daily meals and track basic nutrition information",
+  "main": " server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris25005/Mealplanner.git"
+  },
+  "keywords": [
+    "nutrition",
+    "meals",
+    "planner",
+    "diet"
+  ],
+  "author": "christu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris25005/Mealplanner/issues"
+  },
+  "homepage": "https://github.com/Chris25005/Mealplanner#readme"
+}
