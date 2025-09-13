@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Chris25005/Mealplanner/issues"
   },
-  "homepage": "https://github.com/Chris25005/Mealplanner#readme"
+  "homepage": "https://github.com/Chris25005/Mealplanner#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
